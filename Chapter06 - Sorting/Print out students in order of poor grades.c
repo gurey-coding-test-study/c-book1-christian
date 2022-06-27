@@ -42,6 +42,8 @@ int main()
 	}
 
 	printf("\n");
+	
+	free(std);
 
 	return 0;
 }
